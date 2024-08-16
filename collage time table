@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super 150 Time Table</title>
+
+
+</head>
+<body>
+    <FONT COLOR="black"><CENTER>Super 150 Batch</FONT></H1>
+        <table border="8" cellspacing="2" align="center">
+           
+        
+        
+        <tr>
+            
+            <th><br>#Lecture</th>
+            <th>I<br>08:00-09:00</th>
+
+            <th>II<br>09:00-10:00</th>
+            <th>III<br>10:00-11:00</th>
+            <th>IV<br>11:00-12:00</th>
+            <th>V<br>12:00-01:00</th>
+            <th>VI<br>01:00-02:00</th>
+            <th>VII<br>02:00-03:00</th>
+            <th>VIII<br>03:00-04:00</th>
+
+        </tr>
+        <tr>
+            <td align="center">MONDAY</td>
+            <td align="center"><font color="black">BCSC1010<br>AB VIII-225<br></td>
+                <td align="center"><font color="black">BCSC0008<br>AB VIII-225<br>
+                    <td align="center"><font color="black">BCSC0804<br>AB II-4009<br>
+                        <td align="center"><font color="black">BCSC0008<br>AB II-4009<br>
+                            <td rowspan="6" align="center">L<br>U<br>N<br>C<br>H</td>
+                            <td align="center"><font color="black">BCSC1002<br>AB VIII-317 <br>
+                                <td align="center"><font color="black">BELH2003<br>AB VIII-323<br>
+                                    <td align="center"><font color="black">PCPH0001<br>AB VIII-303<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         <tr>
+            <td align="center">TUESDAY</td>
+            <td align="center"><font color="black">BCSC0804<br>AB II-5009<br></td>
+                <td align="center"><font color="black">BCSC0008<br>AB II-5009<br>
+                    <td align="center"><font color="black"><br>
+                        <td align="center"><font color="black">BCSC1010<br>AB VIII-322<br>
+                            
+                            <td align="center"><font color="black">BCSC1003<br>AB VI-17 <br>
+                                <td align="center"><font color="black">BELH2003<br>AB VIII-323<br>
+                                    <td align="center"><font color="black">BCSC0008<br>AB VIII-303<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         <tr>
+            <td align="center">WEDNESDAY</td>
+            <td align="center"><font color="black">PCPH0001<br>AB VIII-326<br></td>
+                <td align="center"><font color="black">BCSC1010<br>AB VIII-317<br>
+                    <td align="center"><font color="black">BCSC1003<br>AB VIII-317<br>
+                        <td align="center"><font color="black">BELH2003<br>AB VIII-317<br>
+                           
+                            <td align="center"><font color="black">BCSC0008<br>AB II-5006 <br>
+                                <td align="center"><font color="black">BCSC1002<br>AB VIII-317<br>
+                                    <td align="center"><font color="black">BCSC1005<br>AB VIII-328<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         <tr>
+            <td align="center">THURSDAY</td>
+            <td align="center"><font color="black">BCSC0802<br>AB I<br>204</td>
+                <td align="center"><font color="black">BCSC0802<br>AB I-204<br>
+                    <td align="center"><font color="black">BCSC0008<br>AB VIII-225<br>
+                        <td align="center"><font color="black">BCSC1003<br>AB VIII-317<br>
+                           
+                            <td align="center"><font color="black">BCSC0008<br>AB II-5006 <br>
+                                <td align="center"><font color="black">BCSC1002<br>AB VIII-317<br>
+                                    <td align="center"><font color="black">BCSC1005<br>AB VIII-328<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         <tr>
+            <td align="center">FRIDAY</td>
+            <td align="center"><font color="black">PCPH0001<br>AB VIII-326<br></td>
+                <td align="center"><font color="black">BCSC1010<br>AB VIII-317<br>
+                    <td align="center"><font color="black">BCSC1003<br>AB VIII-317<br>
+                        <td align="center"><font color="black">BELH2003<br>AB VIII-317<br>
+                           
+                            <td align="center"><font color="black">BCSC0008<br>AB II-5006 <br>
+                                <td align="center"><font color="black">BCSC1002<br>AB VIII-317<br>
+                                    <td align="center"><font color="black">BCSC1005<br>AB VIII-328<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         <tr>
+            <td align="center">SATUARDAY</td>
+            <td align="center"><font color="black">PCPH0001<br>AB VIII-326<br></td>
+                <td align="center"><font color="black">BCSC1010<br>AB VIII-317<br>
+                    <td align="center"><font color="black">BCSC1003<br>AB VIII-317<br>
+                        <td align="center"><font color="black"><br><br>
+                           
+                            <td align="center"><font color="black"><br><br>
+                                <td align="center"><font color="black"><br><br>
+                                    <td align="center"><font color="black">BCSC1005<br>AB VIII-328<br>
+            <!-- More cells -->
+            
+            
+         </tr>
+         
+
+         
+         
+    
+        
+            </table>
+
+    
+    
+    
+</body>
+</html>
