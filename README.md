@@ -51,7 +51,7 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/abhijeet-mishra" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
  
