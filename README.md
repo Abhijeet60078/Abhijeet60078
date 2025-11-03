@@ -54,9 +54,7 @@
   <a href="https://linkedin.com/in/abhijeet-mishra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abhijeet@example.com">
-    <img src="https://img.shields.io/badge/Email-abhijeet%40example.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+ 
   <a href="https://github.com/Abhijeet60078" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Abhijeet60078-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
