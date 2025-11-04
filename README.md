@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Abhijeet Mishra</h1>
-<h3 align="center">💻 3rd Year CSE Student | Aspiring Full Stack & AI Developer</h3>
+<h3 align="center">💻 3rd Year CSE Student | Aspiring Full Stack Developer</h3>
 
 ---
 
