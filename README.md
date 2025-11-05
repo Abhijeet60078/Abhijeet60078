@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 3D GitHub Analytics
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet60078&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet60078&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet60078&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
-</p>
 
 ---
 
@@ -68,10 +59,6 @@
 
 ---
 
-### 🧩 3D Contribution Graph
-<p align="center">
-  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/assets/github-contribution-grid-snake.svg" alt="3D Snake" />
-</p>
 
 ---
 
