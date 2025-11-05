@@ -21,7 +21,7 @@
 
 ---
 
-### 🧠 Tech Arsenal (3D Themed)
+### 🧠 Technology
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
 </p>
