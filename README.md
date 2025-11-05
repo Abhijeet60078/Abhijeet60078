@@ -1,80 +1,89 @@
 <!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Abhijeet Mishra</h1>
-<h3 align="center">💻 3rd Year CSE Student | Aspiring Full Stack Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Abhijeet+Mishra;💻+Full+Stack+Developer+in+Making;🚀+AI+Enthusiast+%7C+CSE+Student" />
+</h1>
+
+<p align="center">
+  <img src="https://github.com/Abhijeet60078/Abhijeet60078/blob/main/assets/3d-coder.gif" width="250px" alt="3D Coder"/>
+</p>
+
+<h3 align="center">💻 3rd Year CSE Student | Aspiring Full Stack AI Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-🎓 I’m pursuing a **B.Tech in Computer Science Engineering**.  
-🚀 Passionate about building intelligent and scalable web applications that bridge **AI and modern web technologies**.  
-🌱 Currently learning **Full Stack Development (MERN)** and **Data Structures & Algorithms in Java**.  
-🎯 Goal: To become a **Full Stack AI Developer** capable of building production-level systems.  
-💬 Ask me about **Java, React, Node.js, Express, MongoDB, Python, or DSA**.  
-⚡ Fun fact: I believe great code is like art — clean, purposeful, and expressive.
+🎓 Pursuing **B.Tech in Computer Science Engineering**  
+🚀 Passionate about building intelligent, scalable web applications bridging **AI + Modern Web**  
+🌱 Currently exploring **MERN Stack** and **Data Structures & Algorithms in Java**  
+🎯 Goal: Become a **Full Stack AI Developer** capable of building production-level systems  
+💬 Ask me about **Java, React, Node.js, Express, MongoDB, Python, or DSA**  
+⚡ Fun fact: *Great code feels like poetry — clean, expressive, and impactful.*
 
 ---
 
-### 🧠 Technical Skills
-#### 💻 Languages:
-`Java` • `Python` • `JavaScript` • `HTML5` • `CSS3`
-
-#### 🧩 Frameworks & Libraries:
-`React.js` • `Node.js` • `Express.js` • `Tailwind CSS`
-
-#### 🗄️ Databases:
-`MongoDB` • `MySQL`
-
-#### ⚙️ Tools & Platforms:
-`Git` • `GitHub` • `VS Code` • `Postman` • `Figma`
-
----
-
-### 📊 GitHub Analytics
+### 🧠 Tech Arsenal (3D Themed)
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet60078&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet60078&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
+</p>
+
+---
+
+### 📊 3D GitHub Analytics
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Abhijeet60078&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet60078&theme=react&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet60078&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeet60078&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00FFFF" />
 </p>
 
 ---
 
 ### 🧠 Current Focus
-- 🌐 Enhancing frontend skills with **React & Tailwind CSS**  
-- ⚙️ Strengthening backend with **Node.js, Express, and MongoDB**  
-- 📈 Practicing **Data Structures & Algorithms (Java)** for interviews  
-- 🤖 Exploring **AI integrations** into web applications  
+- 🌐 Mastering **React & Tailwind CSS** for next-gen frontend  
+- ⚙️ Deepening **Node.js + Express + MongoDB** skills  
+- 📈 Practicing **Data Structures & Algorithms (Java)** daily  
+- 🤖 Learning **AI integrations** into full-stack apps  
+
+---
+
+### 🏆 Achievements & Highlights
+- 🧩 Solved **200+ DSA problems** in Java  
+- 🧱 Developed **3+ Full Stack Projects** (Frontend + Backend)  
+- 🧠 Strong in **OOPs**, **DBMS**, and **Software Engineering**  
+- 🚀 Passionate about **clean code, scalability, and performance**
 
 ---
 
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
- 
   <a href="https://github.com/Abhijeet60078" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Abhijeet60078-black?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Abhijeet60078-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🏅 Highlights
-- 🧩 Solved 200+ DSA problems in Java  
-- 🧱 Built multiple full stack projects (frontend + backend)  
-- 🧠 Strong foundation in **OOPs**, **DBMS**, and **Software Engineering**  
-- 🎯 Focused on clean code, scalability, and performance  
+### 🧩 3D Contribution Graph
+<p align="center">
+  <img src="https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/assets/github-contribution-grid-snake.svg" alt="3D Snake" />
+</p>
 
 ---
 
 ### ⚡ Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&margin-w=10&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
+<h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
