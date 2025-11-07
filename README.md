@@ -29,7 +29,6 @@
 ---
 
 
----
 
 ### 🧠 Current Focus
 - 🌐 Mastering **React & Tailwind CSS** for next-gen frontend  
