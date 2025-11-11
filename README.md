@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 🎓 Pursuing **B.Tech in Computer Science Engineering**  
 🚀 Passionate about building intelligent, scalable web applications bridging **AI + Modern Web**  
 🌱 Currently exploring **MERN Stack** and **Data Structures & Algorithms in Java**  
