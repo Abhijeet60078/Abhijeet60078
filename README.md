@@ -34,7 +34,7 @@
 - 🌐 Mastering **React & Tailwind CSS** for next-gen frontend  
 - ⚙️ Deepening **Node.js + Express + MongoDB** skills  
 - 📈 Practicing **Data Structures & Algorithms (Java)** daily  
-- 🤖 Learning **AI integrations** into full-stack apps  
+- 🤖 Learning **AI integration** into full-stack apps  
 
 ---
 
