@@ -11,42 +11,47 @@
 
 ---
 
-## 👨‍💻 About Me
-🎓 Pursuing **B.Tech in Computer Science Engineering**  
-🚀 Passionate about building intelligent, scalable web applications bridging **AI + Modern Web**  
-🌱 Currently exploring **MERN Stack** and **Data Structures & Algorithms in Java**  
-🎯 Goal: Become a **Full Stack AI Developer** capable of building production-level systems  
-💬 Ask me about **Java, React, Node.js, Express, MongoDB, Python, or DSA**  
-⚡ Fun fact: *Great code feels like poetry — clean, expressive, and impactful.*
+## 👨‍💻 About Me  
+I’m a passionate **Computer Science Engineering student** driven by curiosity and creativity.  
+My journey is focused on building **intelligent, scalable full-stack applications** that fuse **AI + Modern Web**.
+
+- 🎓 B.Tech in **Computer Science Engineering**  
+- 💡 Passionate about **AI-integrated web systems**  
+- 🌱 Currently mastering **MERN Stack** & **DSA in Java**  
+- 🚀 Goal: Become a **Full Stack AI Developer**  
+- 💬 Ask me about Java, React, Node.js, Python, MongoDB, Express & DSA  
+- ⚡ Fun fact: *Clean code feels like poetry — simple, expressive & impactful.*
 
 ---
 
-### 🧠 Technology
+## 🧠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
 </p>
 
 ---
 
+## 🎯 Current Focus Areas
 
-
-### 🧠 Current Focus
-- 🌐 Mastering **React & Tailwind CSS** for next-gen frontend  
-- ⚙️ Deepening **Node.js + Express + MongoDB** skills  
-- 📈 Practicing **Data Structures & Algorithms (Java)** daily  
-- 🤖 Learning **AI integration** into full-stack apps  
+- 🌐 Advanced **React + Tailwind CSS**  
+- ⚙️ Backend mastery with **Node.js + Express + MongoDB**  
+- 📘 Strengthening **Data Structures & Algorithms (Java)**  
+- 🤖 Exploring **AI integration** into applications  
 
 ---
 
-### 🏆 Achievements & Highlights
+## 🏆 Achievements & Highlights
+
 - 🧩 Solved **200+ DSA problems** in Java  
-- 🧱 Developed **3+ Full Stack Projects** (Frontend + Backend)  
-- 🧠 Strong in **OOPs**, **DBMS**, and **Software Engineering**  
-- 🚀 Passionate about **clean code, scalability, and performance**
+- 🧱 Built **3+ Full-Stack Projects** (Frontend + Backend)  
+- 🔥 Strong foundation in **OOP, DBMS, OS, SE**  
+- 🚀 Committed to writing clean, scalable & efficient code  
 
 ---
 
-### 🌍 Connect with Me
+## 🌍 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-0077B5?style=for-the-badge&logo=linkedin" />
@@ -58,18 +63,17 @@
 
 ---
 
+## 📊 Profile Insights
 
-
-
-### ⚡ Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&margin-w=10&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&margin-w=10&no-frame=true" />
 </p>
 
 ---
 
 <h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
+
