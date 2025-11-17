@@ -12,15 +12,14 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a passionate **Computer Science Engineering student** driven by curiosity and creativity.  
-My journey is focused on building **intelligent, scalable full-stack applications** that fuse **AI + Modern Web**.
+I’m a passionate **Computer Science Engineering student** who loves building **intelligent, scalable full-stack applications** integrating **AI + Modern Web Technologies**.
 
-- 🎓 B.Tech in **Computer Science Engineering**  
-- 💡 Passionate about **AI-integrated web systems**  
-- 🌱 Currently mastering **MERN Stack** & **DSA in Java**  
-- 🚀 Goal: Become a **Full Stack AI Developer**  
+- 🎓 Pursuing **B.Tech in Computer Science Engineering**
+- 🚀 Exploring the intersection of **AI + Full Stack Development**
+- 🌱 Currently mastering **MERN Stack** & **DSA in Java**
 - 💬 Ask me about Java, React, Node.js, Python, MongoDB, Express & DSA  
-- ⚡ Fun fact: *Clean code feels like poetry — simple, expressive & impactful.*
+- 🎯 Goal: Become a **Full Stack AI Developer**
+- ⚡ Fun fact: *Clean code feels like poetry — expressive, simple, powerful.*
 
 ---
 
@@ -34,10 +33,10 @@ My journey is focused on building **intelligent, scalable full-stack application
 
 ## 🎯 Current Focus Areas
 
-- 🌐 Advanced **React + Tailwind CSS**  
-- ⚙️ Backend mastery with **Node.js + Express + MongoDB**  
-- 📘 Strengthening **Data Structures & Algorithms (Java)**  
-- 🤖 Exploring **AI integration** into applications  
+- 🌐 Building modern UI using **React + Tailwind CSS**
+- ⚙️ Strengthening backend with **Node.js, Express & MongoDB**
+- 📘 Improving **Data Structures & Algorithms (Java)**
+- 🤖 Learning practical **AI integration** into full-stack apps  
 
 ---
 
@@ -45,8 +44,8 @@ My journey is focused on building **intelligent, scalable full-stack application
 
 - 🧩 Solved **200+ DSA problems** in Java  
 - 🧱 Built **3+ Full-Stack Projects** (Frontend + Backend)  
-- 🔥 Strong foundation in **OOP, DBMS, OS, SE**  
-- 🚀 Committed to writing clean, scalable & efficient code  
+- 🔥 Strong foundation in **OOP, DBMS, OS, and SE**  
+- 🚀 Passionate about scalable system design & clean code  
 
 ---
 
@@ -69,11 +68,13 @@ My journey is focused on building **intelligent, scalable full-stack application
   <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
+<!-- 🏆 Fixed Trophy Image -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
 <h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
+
 
