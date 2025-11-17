@@ -68,9 +68,17 @@ I’m a passionate **Computer Science Engineering student** who loves building *
   <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
-<!-- 🏆 Fixed Trophy Image -->
+<!-- 🏆 Trophy Section -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhijeet60078&theme=matrix&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet60078&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
