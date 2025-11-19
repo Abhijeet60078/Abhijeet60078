@@ -70,12 +70,28 @@ I’m a passionate **Computer Science Engineering student** who loves building *
 
 
 
-## 📈 Contribution Graph
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhijeet60078&theme=react-dark&hide_border=true&area=true" />
-</p>
+<div align="center">
 
----
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeetmishra17&theme=react&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetmishra17&show_icons=true&theme=react&border_radius=15" alt="GitHub Stats" />
+    </td>
+  </tr>
 
-<h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetmishra17&layout=compact&theme=react&border_radius=15" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+</div>
