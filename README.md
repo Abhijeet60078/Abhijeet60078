@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Abhijeet+Mishra;💻+Full+Stack+Developer+in+Making;🚀+AI+Enthusiast+%7C+CSE+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&VCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Abhijeet+Mishra;💻+Full+Stack+Developer+in+Making;🚀+AI+Enthusiast+%7C+CSE+Student" />
 </h1>
 
 <p align="center">
@@ -68,30 +68,6 @@ I’m a passionate **Computer Science Engineering student** who loves building *
   <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </p>
 
+---
 
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeetmishra17&theme=react&border_radius=15&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetmishra17&show_icons=true&theme=react&border_radius=15" alt="GitHub Stats" />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetmishra17&layout=compact&theme=react&border_radius=15" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
+<h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
