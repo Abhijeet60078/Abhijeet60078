@@ -62,12 +62,6 @@ I’m a passionate **Computer Science Engineering student** who loves building *
 
 ---
 
-## 📊 Profile Insights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhijeet60078&label=Profile%20Views&color=00FFFF&style=flat-square" />
-</p>
-
----
 
 <h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
