@@ -1,67 +1,89 @@
-<!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&VCenter=true&width=600&height=60&lines=👋+Hi,+I'm+Abhijeet+Mishra;💻+Full+Stack+Developer+in+Making;🚀+AI+Enthusiast+%7C+CSE+Student" />
-</h1>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Abhijeet60078/Abhijeet60078/blob/main/assets/3d-coder.gif" width="250px" alt="3D Coder"/>
+  <img src="https://raw.githubusercontent.com/abhijeeet/banner-example/main/hello-world-banner.png" alt="Hello World" width="100%">
 </p>
 
-<h3 align="center">💻 3rd Year CSE Student | Aspiring Full Stack AI Developer</h3>
+<h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
+<h3 align="center">Frontend Developer | Full Stack Learner | Java DSA Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me  
-I’m a passionate **Computer Science Engineering student** who loves building **intelligent, scalable full-stack applications** integrating **AI + Modern Web Technologies**.
+## 🧑‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Computer Science Engineering**
-- 🚀 Exploring the intersection of **AI + Full Stack Development**
-- 🌱 Currently mastering **MERN Stack** & **DSA in Java**
-- 💬 Ask me about Java, React, Node.js, Python, MongoDB, Express & DSA  
-- 🎯 Goal: Become a **Full Stack AI Developer**
-- ⚡ Fun fact: *Clean code feels like poetry — expressive, simple, powerful.*
+Hi 👋, I'm **Abhijeet Mishra**,  
+A passionate **Frontend & Full Stack Developer in progress**. 
+
+🎯 What I do:
+- 🌐 Frontend Development (HTML, CSS, JavaScript, React)  
+- 🧠 Java DSA (Daily Practice)  
+- ⚙️ Full Stack MERN Learning  
+- 📚 Building real-world projects & improving problem solving  
+- 🚀 Consistently improving GitHub contributions  
 
 ---
 
-## 🧠 Tech Stack
+## 🚀 Tech Stack
+
+### 💻 Frontend
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### ⚙ Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f14e32?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🛠️ Tools I Use
+- VS Code  
+- Git & GitHub  
+- Postman  
+- Chrome DevTools  
+- Netlify / Vercel  
+
+---
+
+## 📌 Featured Projects
+
+🔹 **Password Generator App**  
+🔹 **Weather Web App**  
+🔹 **Async Coffee Maker (JS Promises)**  
+🔹 **UI Components Library**  
+🔹 **Portfolio Website**
+
+> Want me to generate special project cards for these? I can add them in the README too.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 🎯 Current Focus Areas
-
-- 🌐 Building modern UI using **React + Tailwind CSS**
-- ⚙️ Strengthening backend with **Node.js, Express & MongoDB**
-- 📘 Improving **Data Structures & Algorithms (Java)**
-- 🤖 Learning practical **AI integration** into full-stack apps  
+## ✨ Fun Fact
+⚡ *I debug more than I write code — but I love it!*  
 
 ---
 
-## 🏆 Achievements & Highlights
-
-- 🧩 Solved **200+ DSA problems** in Java  
-- 🧱 Built **3+ Full-Stack Projects** (Frontend + Backend)  
-- 🔥 Strong foundation in **OOP, DBMS, OS, and SE**  
-- 🚀 Passionate about scalable system design & clean code  
-
----
-
-## 🌍 Connect with Me
-
-<p align="center">
+## 📫 Connect With Me
+<p align="left">
   <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Mishra-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/Abhijeet60078" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Abhijeet60078-181717?style=for-the-badge&logo=github" />
+  <a href="mishraabhijeet078@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-
-
-<h3 align="center">✨ “Code. Learn. Innovate. Repeat.” ✨</h3>
+⭐ **Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like my work!**
