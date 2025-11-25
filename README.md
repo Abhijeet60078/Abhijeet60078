@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeeet/banner-example/main/hello-world-banner.png" alt="Hello World" width="100%">
-</p>
 
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
 <h3 align="center">Frontend Developer | Full Stack Learner | Java DSA Enthusiast</h3>
@@ -58,12 +54,7 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="48%" />
-</p>
 
 ---
 
@@ -74,10 +65,10 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mishraabhijeet078@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
