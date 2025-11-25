@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhijeeet/banner-example/main/hello-world-banner.png" alt="Hello World" width="100%">
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/hello-world-banner.png" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
