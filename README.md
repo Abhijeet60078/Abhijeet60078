@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/hello-world-banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/abhijeeet/banner-example/main/hello-world-banner.png" alt="Hello World" width="100%">
 </p>
 
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
@@ -11,7 +11,7 @@
 ## 🧑‍💻 About Me
 
 Hi 👋, I'm **Abhijeet Mishra**,  
-A passionate **Frontend & Full Stack Developer in progress**. 
+A passionate **Frontend & Full Stack Developer in progress**, currently training under **Bridgelabz** and building real-world projects every day.  
 
 🎯 What I do:
 - 🌐 Frontend Development (HTML, CSS, JavaScript, React)  
@@ -56,8 +56,6 @@ A passionate **Frontend & Full Stack Developer in progress**.
 🔹 **UI Components Library**  
 🔹 **Portfolio Website**
 
-> Want me to generate special project cards for these? I can add them in the README too.
-
 ---
 
 ## 📊 GitHub Stats
@@ -76,10 +74,10 @@ A passionate **Frontend & Full Stack Developer in progress**.
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mishraabhijeet078@gmail.com">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
