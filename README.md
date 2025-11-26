@@ -3,6 +3,13 @@
 <h3 align="center">Frontend Developer | Full Stack Learner | Java DSA Enthusiast</h3>
 
 ---
+## 🔥 Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeet60078&hide_border=true" alt="Abhijeet's GitHub Streak" />
+</p>
+
+---
 
 ## 🧑‍💻 About Me
 
