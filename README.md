@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
-<h3 align="center">Frontend Developer | Full Stack Learner | Java DSA Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Java DSA Enthusiast</h3>
 
 ---
 
