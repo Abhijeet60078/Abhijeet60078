@@ -40,8 +40,7 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 ## 🛠️ Tools I Use
 - VS Code  
 - Git & GitHub  
-- Postman  
-- Chrome DevTools  
+- Postman
 - Netlify / Vercel  
 
 ---
