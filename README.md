@@ -1,8 +1,7 @@
-
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
-<h3 align="center">Full Stack Developer | Java DSA Enthusiast</h3>
-
----
+<h3 align="center">
+  Full Stack Developer | Java DSA Enthusiast | ECWoC Contributor
+</h3>
 
 ---
 
@@ -17,6 +16,7 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 - ⚙️ Full Stack MERN Stack Learning  
 - 📚 Building real-world projects & improving problem solving  
 - 🚀 Consistently improving GitHub contributions  
+- 🌍 **Contributor at ECWoC (Engineering Community Winter of Code)**  
 
 ---
 
@@ -40,22 +40,26 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 ## 🛠️ Tools I Use
 - VS Code  
 - Git & GitHub  
-- Postman
+- Postman  
 - Netlify / Vercel  
 
 ---
 
 ## 📌 Featured Projects
 
+🔹 **ChatSphere**  
+> 💬 Real-time chat application with user authentication and instant messaging features.  
+> 🛠 Tech: React, Node.js, Express, MongoDB, Socket.IO  
+
+🔹 **Fitness Tracker**  
+> 🏋️‍♂️ Track workouts, calories, and fitness progress with a clean and responsive UI.  
+> 🛠 Tech: React, JavaScript, REST APIs  
+
 🔹 **Password Generator App**  
 🔹 **Weather Web App**  
 🔹 **Async Coffee Maker (JS Promises)**  
 🔹 **UI Components Library**  
 🔹 **Portfolio Website**
-
----
-
-
 
 ---
 
@@ -69,7 +73,7 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
   <a href="https://www.linkedin.com/in/abhijeet-mishra-1342952aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mishraabhijeet078@gmail.com">
+  <a href="mailto:mishraabhijeet078@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
