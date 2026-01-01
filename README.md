@@ -11,7 +11,7 @@ Hi 👋, I'm **Abhijeet Mishra**,
 A passionate **Frontend & Full Stack Developer in progress**, currently training under **Bridgelabz** and building real-world projects every day.  
 
 🎯 What I do:
-- 🌐 Frontend Development (HTML, CSS, JavaScript, React)  
+- 🌐 Frontend Development (HTML, CSS, JS, React)  
 - 🧠 Java DSA (Daily Practice)  
 - ⚙️ Full Stack MERN Stack Learning  
 - 📚 Building real-world projects & improving problem solving  
