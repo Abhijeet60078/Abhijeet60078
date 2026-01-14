@@ -80,4 +80,4 @@ A passionate **Frontend & Full Stack Developer in progress**, currently training
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to check out my repositories and drop a ⭐ if you like my work!**
+⭐ **Thanks for visiting my profile! Feel free to check out my repositories and drop it if you like my work!**
