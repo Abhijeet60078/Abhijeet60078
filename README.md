@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm <strong>Abhijeet Mishra</strong></h1>
 <h3 align="center">
-  Full Stack Developer | Java DSA Enthusiast | ECWoC Contributor
+  Full Stack Developer | Java DSA Enthusiast | ECWOC Contributor
 </h3>
 
 ---
