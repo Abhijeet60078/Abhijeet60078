@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi 👋, I'm **Abhijeet Mishra**,  
+Hi👋, I'm **Abhijeet Mishra**,  
 A passionate **Frontend & Full Stack Developer in progress**, currently training under **Bridgelabz** and building real-world projects every day.  
 
 🎯 What I do:
