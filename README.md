@@ -2,7 +2,6 @@
 🔭 I’m currently working on: Building scalable web applications and strengthening problem-solving skills through hands-on projects.<br><br>👯 I’m looking to collaborate on: Open-source projects and real-world applications related to web development and software engineering.<br><br>🤝 I’m looking for help with: Advanced system design concepts, performance optimization, and best development practices.<br><br>🌱 I’m currently learning: Data Structures & Algorithms, full-stack web development, and modern JavaScript frameworks.
 
 
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishraabhijeet078@gmail.com) 
 
