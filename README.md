@@ -182,19 +182,7 @@ Currently strengthening my problem-solving skills with **Java DSA**.
 
 ---
 
-## 📌 Featured Repositories
 
-<p align="center">
-  <a href="https://github.com/Abhijeet60078/Cognizant-DeepSkilling-Program">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet60078&repo=Cognizant-DeepSkilling-Program&hide_border=true" alt="Cognizant Deep Skilling Program" width="48%" />
-  </a>
-
-  <a href="https://github.com/Abhijeet60078/Cognizant-DeepSkilling-HandsOn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhijeet60078&repo=Cognizant-DeepSkilling-HandsOn&hide_border=true" alt="Cognizant Deep Skilling HandsOn" width="48%" />
-  </a>
-</p>
-
----
 
 ## 🏆 Certifications & Learning
 
